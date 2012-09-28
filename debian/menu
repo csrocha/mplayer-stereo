@@ -1,0 +1,6 @@
+?package(mplayer-stereoscopic):\
+  needs="X11"\
+  section="Apps/Viewers"\
+  title="MPlayer Stereo"\
+  command="/usr/bin/gmplayer-stereoscopic"\
+  icon="/usr/share/pixmaps/mplayer.xpm"

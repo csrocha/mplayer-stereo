@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./configure --disable-gl --disable-vesa --disable-svga --disable-sdl --disable-kva --disable-aa --disable-caca --disable-ggi --disable-direct3d --disable-directx --disable-dxr2 --disable-dxr3 --disable-ivtv --disable-v4l2 --disable-dvb --disable-mga --disable-xmga --disable-xv --disable-fbdev --disable-mlib --disable-3dfx --disable-tdfxfb --disable-s3fb --disable-wii --disable-directfb --disable-zr --disable-bl --disable-xvr100 --disable-xvr100 --disable-tga --disable-pnm --disable-md5sum --disable-yuv4mpeg --disable-corevideo --disable-quartz --enable-debug
