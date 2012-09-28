@@ -1,0 +1,4 @@
+mplayer-stereo
+==============
+
+Stereoscopic MPlayer
